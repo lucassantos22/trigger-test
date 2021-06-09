@@ -1,4 +1,4 @@
-# trigger-testd
+# trigger-test
 dh
 Jenkins é TOP!gffddd
 dffcfgfd
